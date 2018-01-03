@@ -53,3 +53,10 @@ body {
 #icon-sec a{
     color: white;
 }
+#icon-sec p{
+    font-family: 'Permanent Marker', cursive;
+    padding: 50px;
+    font-size: 50%;
+    text-align: center;
+    color: white;
+}
